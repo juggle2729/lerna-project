@@ -31,5 +31,6 @@
     "@babel/runtime-corejs2": "^7.5.5",
     "chalk": "^2.4.2",
     "semver": "^6.2.0"
-  }
+  },
+  "gitHead": "7fa324a398756b14931ac68c30f12497e99ff30c"
 }
