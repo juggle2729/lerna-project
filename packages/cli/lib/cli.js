@@ -3,5 +3,5 @@
 module.exports = cli;
 
 function cli() {
-    return "Hello from cli-test";
+    return "Hello from cli-test-2";
 }

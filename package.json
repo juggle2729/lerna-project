@@ -12,7 +12,14 @@
       "path": "./node_modules/cz-conventional-changelog"
     }
   },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
+  },
   "devDependencies": {
+    "@commitlint/cli": "^17.3.0",
+    "@commitlint/config-conventional": "^17.3.0",
     "commitizen": "^4.2.5",
     "cz-lerna-changelog": "^2.0.3",
     "lerna": "^6.0.3"
