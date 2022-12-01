@@ -1,6 +1,6 @@
 {
   "name": "@juggle-demo/cli",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "> TODO: description",
   "author": "daiqinjun <Tanjun.Dai@geely.com>",
   "homepage": "https://github.com/juggle2729/lerna-project#readme",
@@ -27,7 +27,7 @@
     "url": "https://github.com/juggle2729/lerna-project/issues"
   },
   "dependencies": {
-    "@juggle-demo/cli-shared-utils": "^0.0.0",
+    "@juggle-demo/cli-shared-utils": "^0.0.1",
     "chalk": "^5.1.2"
   }
 }
