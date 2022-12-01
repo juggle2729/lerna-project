@@ -4,7 +4,17 @@
   "workspaces": [
     "packages/*"
   ],
+  "scripts": {
+    "c": "git-cz"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  },
   "devDependencies": {
+    "commitizen": "^4.2.5",
+    "cz-lerna-changelog": "^2.0.3",
     "lerna": "^6.0.3"
   }
 }
