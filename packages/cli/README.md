@@ -1,11 +1,11 @@
-# `@mo-demo/cli`
+# `@juggle-demo/cli`
 
 > TODO: description
 
 ## Usage
 
 ```
-const cli = require('@mo-demo/cli');
+const cli = require('@juggle-demo/cli');
 
 // TODO: DEMONSTRATE API
 ```

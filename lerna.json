@@ -1,17 +1,5 @@
 {
-  "packages": [
-    "packages/*"
-  ],
-  "command": {
-    "bootstrap": {
-      "hoist": true
-    },
-    "version": {
-      "conventionalCommits": true
-    }
-  },
-  "ignoreChanges": [
-    "**/*.md"
-  ],
-  "version": "0.1.0-alpha.12"
+  "$schema": "node_modules/lerna/schemas/lerna-schema.json",
+  "useWorkspaces": true,
+  "version": "0.0.0"
 }
